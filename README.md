@@ -1,5 +1,5 @@
 ### Hi I'm Hubert 👋
-I'm an aspiring python backend developer. Most of my projects are API's written using Django or Flask. I'm also interested in data science and natural language processing. 
+I'm a python software enginneer. Most of my projects are API's written using Django or Flask. I'm also interested in data science and natural language processing. 
 <!--
 **Suijn/Suijn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
